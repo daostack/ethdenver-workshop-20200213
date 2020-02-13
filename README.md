@@ -43,7 +43,7 @@ docker-compose up graph-node
 
 # Plugins
 
-- Visit http://127.0.0.1:8000
+- Visit http://127.0.0.1:3000
 - Find the DutchX DAO
 - Exercise: Create a proposal in it
   - [use account with private key `4F3EDF983AC636A65A842CE7C78D9AA706D3B113BCE9C46F30D7D21715B23B1D`]
